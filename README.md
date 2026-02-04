@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/Ishwar70/DSA_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0394-decode-string](https://github.com/Ishwar70/DSA_Problems/tree/master/0394-decode-string) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@
 | [0050-powx-n](https://github.com/Ishwar70/DSA_Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ishwar70/DSA_Problems/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Ishwar70/DSA_Problems/tree/master/0062-unique-paths) |
+| [0168-excel-sheet-column-title](https://github.com/Ishwar70/DSA_Problems/tree/master/0168-excel-sheet-column-title) |
 ## Dynamic Programming
 |  |
 | ------- |
