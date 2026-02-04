@@ -24,5 +24,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ishwar70/DSA_Problems/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/Ishwar70/DSA_Problems/tree/master/0394-decode-string) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ishwar70/DSA_Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
