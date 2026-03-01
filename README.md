@@ -38,6 +38,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Ishwar70/DSA_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ishwar70/DSA_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0279-perfect-squares](https://github.com/Ishwar70/DSA_Problems/tree/master/0279-perfect-squares) |
+| [0492-construct-the-rectangle](https://github.com/Ishwar70/DSA_Problems/tree/master/0492-construct-the-rectangle) |
 ## Dynamic Programming
 |  |
 | ------- |
