@@ -18,6 +18,7 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Ishwar70/DSA_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ishwar70/DSA_Problems/tree/master/0171-excel-sheet-column-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishwar70/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/Ishwar70/DSA_Problems/tree/master/0394-decode-string) |
 ## Stack
 |  |
@@ -52,4 +53,16 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Ishwar70/DSA_Problems/tree/master/0279-perfect-squares) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishwar70/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishwar70/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ishwar70/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
