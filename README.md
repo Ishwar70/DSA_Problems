@@ -23,6 +23,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ishwar70/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0394-decode-string](https://github.com/Ishwar70/DSA_Problems/tree/master/0394-decode-string) |
 ## Recursion
 |  |
@@ -73,4 +74,16 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Ishwar70/DSA_Problems/tree/master/0190-reverse-bits) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ishwar70/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ishwar70/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ishwar70/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
