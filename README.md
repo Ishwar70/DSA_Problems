@@ -30,6 +30,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Ishwar70/DSA_Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Ishwar70/DSA_Problems/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/Ishwar70/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/Ishwar70/DSA_Problems/tree/master/0394-decode-string) |
 ## Math
 |  |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishwar70/DSA_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Ishwar70/DSA_Problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
